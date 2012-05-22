@@ -1,0 +1,82 @@
+/*
+    Bulletin Board Service
+    Copyright (C) 2000 Sudaraka Wijesinghe <sudaraka.wijesinghe@gmail.com>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+.blue_msgbox
+{
+font-family:comic sans ms;
+font-size:14;
+border-top:#99ccff 2px groove;
+border-bottom:#99ccff 2px groove;
+border-left:#99ccff 2px groove;
+border-right:#99ccff 2px groove;
+}
+
+.3d_text0
+{
+  position:absolute;
+  color:#c0c0c0;
+}
+
+.3d_text1
+{
+  position:absolute;
+  color:#808080;
+}
+
+.3d_text2
+{
+  position:absolute;
+  color:#e8e8e8;
+}
+
+.blue_button
+{
+font-family:arial;
+font-weight:bold;
+color:#ffffff;
+background-color:#6699cc;
+border-top:#99ccff 1 solid;
+border-bottom:#000000 1 solid;
+border-left:#99ccff 1 solid;
+border-right:#000000 1 solid;
+}
+
+.blue_textbox
+{
+font-family:courier new;
+font-size:12;
+border-top:#99ccff 2px groove;
+border-bottom:#99ccff 2px groove;
+border-left:#99ccff 2px groove;
+border-right:#99ccff 2px groove;
+}
+
+.blue_table
+{
+border-top: 2px groove;
+border-bottom: 2px groove;
+border-left: 2px groove;
+border-right: 2px groove;
+}
+
+.listhead
+{
+  font-family:arial;
+  font-size:12;
+  font-weight:bold;
+}
